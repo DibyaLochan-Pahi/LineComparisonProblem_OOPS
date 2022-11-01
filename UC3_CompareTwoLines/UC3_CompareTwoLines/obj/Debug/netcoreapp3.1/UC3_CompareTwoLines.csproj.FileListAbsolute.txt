@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC3_CompareTwoLines\UC3_CompareTwoLines\bin\Debug\netcoreapp3.1\UC3_CompareTwoLines.exe
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC3_CompareTwoLines\UC3_CompareTwoLines\bin\Debug\netcoreapp3.1\UC3_CompareTwoLines.deps.json
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC3_CompareTwoLines\UC3_CompareTwoLines\bin\Debug\netcoreapp3.1\UC3_CompareTwoLines.runtimeconfig.json
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC3_CompareTwoLines\UC3_CompareTwoLines\bin\Debug\netcoreapp3.1\UC3_CompareTwoLines.runtimeconfig.dev.json
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC3_CompareTwoLines\UC3_CompareTwoLines\bin\Debug\netcoreapp3.1\UC3_CompareTwoLines.dll
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC3_CompareTwoLines\UC3_CompareTwoLines\bin\Debug\netcoreapp3.1\UC3_CompareTwoLines.pdb
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC3_CompareTwoLines\UC3_CompareTwoLines\obj\Debug\netcoreapp3.1\UC3_CompareTwoLines.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC3_CompareTwoLines\UC3_CompareTwoLines\obj\Debug\netcoreapp3.1\UC3_CompareTwoLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC3_CompareTwoLines\UC3_CompareTwoLines\obj\Debug\netcoreapp3.1\UC3_CompareTwoLines.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC3_CompareTwoLines\UC3_CompareTwoLines\obj\Debug\netcoreapp3.1\UC3_CompareTwoLines.AssemblyInfo.cs
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC3_CompareTwoLines\UC3_CompareTwoLines\obj\Debug\netcoreapp3.1\UC3_CompareTwoLines.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC3_CompareTwoLines\UC3_CompareTwoLines\obj\Debug\netcoreapp3.1\UC3_CompareTwoLines.dll
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC3_CompareTwoLines\UC3_CompareTwoLines\obj\Debug\netcoreapp3.1\UC3_CompareTwoLines.pdb
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC3_CompareTwoLines\UC3_CompareTwoLines\obj\Debug\netcoreapp3.1\UC3_CompareTwoLines.genruntimeconfig.cache
