@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC1_CalculateLineLength\UC1_CalculateLineLength\obj\Debug\netcoreapp3.1\UC1_CalculateLineLength.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC1_CalculateLineLength\UC1_CalculateLineLength\obj\Debug\netcoreapp3.1\UC1_CalculateLineLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC1_CalculateLineLength\UC1_CalculateLineLength\obj\Debug\netcoreapp3.1\UC1_CalculateLineLength.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC1_CalculateLineLength\UC1_CalculateLineLength\obj\Debug\netcoreapp3.1\UC1_CalculateLineLength.AssemblyInfo.cs
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC1_CalculateLineLength\UC1_CalculateLineLength\obj\Debug\netcoreapp3.1\UC1_CalculateLineLength.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC1_CalculateLineLength\UC1_CalculateLineLength\bin\Debug\netcoreapp3.1\UC1_CalculateLineLength.exe
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC1_CalculateLineLength\UC1_CalculateLineLength\bin\Debug\netcoreapp3.1\UC1_CalculateLineLength.deps.json
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC1_CalculateLineLength\UC1_CalculateLineLength\bin\Debug\netcoreapp3.1\UC1_CalculateLineLength.runtimeconfig.json
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC1_CalculateLineLength\UC1_CalculateLineLength\bin\Debug\netcoreapp3.1\UC1_CalculateLineLength.runtimeconfig.dev.json
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC1_CalculateLineLength\UC1_CalculateLineLength\bin\Debug\netcoreapp3.1\UC1_CalculateLineLength.dll
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC1_CalculateLineLength\UC1_CalculateLineLength\bin\Debug\netcoreapp3.1\UC1_CalculateLineLength.pdb
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC1_CalculateLineLength\UC1_CalculateLineLength\obj\Debug\netcoreapp3.1\UC1_CalculateLineLength.dll
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC1_CalculateLineLength\UC1_CalculateLineLength\obj\Debug\netcoreapp3.1\UC1_CalculateLineLength.pdb
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC1_CalculateLineLength\UC1_CalculateLineLength\obj\Debug\netcoreapp3.1\UC1_CalculateLineLength.genruntimeconfig.cache
