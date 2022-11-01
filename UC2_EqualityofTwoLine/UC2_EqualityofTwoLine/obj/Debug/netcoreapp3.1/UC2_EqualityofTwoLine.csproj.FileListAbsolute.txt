@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC2_EqualityofTwoLine\UC2_EqualityofTwoLine\bin\Debug\netcoreapp3.1\UC2_EqualityofTwoLine.exe
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC2_EqualityofTwoLine\UC2_EqualityofTwoLine\bin\Debug\netcoreapp3.1\UC2_EqualityofTwoLine.deps.json
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC2_EqualityofTwoLine\UC2_EqualityofTwoLine\bin\Debug\netcoreapp3.1\UC2_EqualityofTwoLine.runtimeconfig.json
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC2_EqualityofTwoLine\UC2_EqualityofTwoLine\bin\Debug\netcoreapp3.1\UC2_EqualityofTwoLine.runtimeconfig.dev.json
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC2_EqualityofTwoLine\UC2_EqualityofTwoLine\bin\Debug\netcoreapp3.1\UC2_EqualityofTwoLine.dll
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC2_EqualityofTwoLine\UC2_EqualityofTwoLine\bin\Debug\netcoreapp3.1\UC2_EqualityofTwoLine.pdb
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC2_EqualityofTwoLine\UC2_EqualityofTwoLine\obj\Debug\netcoreapp3.1\UC2_EqualityofTwoLine.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC2_EqualityofTwoLine\UC2_EqualityofTwoLine\obj\Debug\netcoreapp3.1\UC2_EqualityofTwoLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC2_EqualityofTwoLine\UC2_EqualityofTwoLine\obj\Debug\netcoreapp3.1\UC2_EqualityofTwoLine.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC2_EqualityofTwoLine\UC2_EqualityofTwoLine\obj\Debug\netcoreapp3.1\UC2_EqualityofTwoLine.AssemblyInfo.cs
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC2_EqualityofTwoLine\UC2_EqualityofTwoLine\obj\Debug\netcoreapp3.1\UC2_EqualityofTwoLine.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC2_EqualityofTwoLine\UC2_EqualityofTwoLine\obj\Debug\netcoreapp3.1\UC2_EqualityofTwoLine.dll
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC2_EqualityofTwoLine\UC2_EqualityofTwoLine\obj\Debug\netcoreapp3.1\UC2_EqualityofTwoLine.pdb
+C:\Users\hp\Desktop\LineComparisionOOPS\New folder\UC2_EqualityofTwoLine\UC2_EqualityofTwoLine\obj\Debug\netcoreapp3.1\UC2_EqualityofTwoLine.genruntimeconfig.cache
